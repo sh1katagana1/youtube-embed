@@ -17,9 +17,9 @@ Which shows as:
 Here is how to embed the video:
 
 {% raw %}
-{% include youtube.html id="JLMbpiywVxQ" %}  
+{% include youtube.html id="tBjhqXin6jo" %}  
 {% endraw %}
 
-{% include youtube.html id="JLMbpiywVxQ" %}  
+{% include youtube.html id="tBjhqXin6jo" %}  
 
 To enable this, you need to create an `_includes` folder in your GitHub Pages root folder and include the [youtube.html](youtube.html) file from this repository.
